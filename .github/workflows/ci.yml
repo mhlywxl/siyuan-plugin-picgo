@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - dev
+      - siyuan-plugin-picgo-v1.11.0-fix
 
 jobs:
   build:
